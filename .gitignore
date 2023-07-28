@@ -1,0 +1,8 @@
+Bats/
+Data/
+Logs_and_Refs/
+Raw_Data/
+Results/
+!Results/Tables
+Tmp_Results/
+draft*
